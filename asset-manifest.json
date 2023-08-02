@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/PINscale-Assignment-ReactJS-1/static/css/main.9d57fce5.chunk.css",
-    "main.js": "/PINscale-Assignment-ReactJS-1/static/js/main.ebaed54f.chunk.js",
-    "main.js.map": "/PINscale-Assignment-ReactJS-1/static/js/main.ebaed54f.chunk.js.map",
+    "main.js": "/PINscale-Assignment-ReactJS-1/static/js/main.dadf07c8.chunk.js",
+    "main.js.map": "/PINscale-Assignment-ReactJS-1/static/js/main.dadf07c8.chunk.js.map",
     "runtime-main.js": "/PINscale-Assignment-ReactJS-1/static/js/runtime-main.19885933.js",
     "runtime-main.js.map": "/PINscale-Assignment-ReactJS-1/static/js/runtime-main.19885933.js.map",
     "static/js/2.78e5d0d3.chunk.js": "/PINscale-Assignment-ReactJS-1/static/js/2.78e5d0d3.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.19885933.js",
     "static/js/2.78e5d0d3.chunk.js",
     "static/css/main.9d57fce5.chunk.css",
-    "static/js/main.ebaed54f.chunk.js"
+    "static/js/main.dadf07c8.chunk.js"
   ]
 }
